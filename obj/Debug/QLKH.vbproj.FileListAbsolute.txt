@@ -1,0 +1,12 @@
+c:\users\vuman_000\documents\visual studio 2012\Projects\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\bin\Debug\QLKH.exe
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\bin\Debug\QLKH.pdb
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\bin\Debug\QLKH.xml
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.FrmKhachhang.resources
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.frmQLKH.resources
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.Resources.resources
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.vbproj.GenerateResource.Cache
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.exe
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.xml
+C:\Users\fpoly\Desktop\Manhvvph03467_assiHT\QLKH\QLKH\obj\Debug\QLKH.pdb
